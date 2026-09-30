@@ -7,6 +7,14 @@ GradeHub is a desktop CGPA (Cumulative Grade Point Average) management applicati
 - Simple role-based faculty access (configured via properties)
 - Modern Swing look-and-feel (FlatLaf) and responsive layouts (MigLayout)
 
+## What the project demonstrates
+
+- Semester-wise and cumulative CGPA calculation workflows
+- CRUD operations backed by MySQL through JDBC
+- Desktop UI development with Java Swing
+- Configuration-driven database and faculty access settings
+- Separation of UI, database, and application responsibilities
+
 ## Quick facts / tech
 - Language: Java 17
 - Build tool: Maven

@@ -199,5 +199,6 @@ This project is a combination of original work by the repository owner and UI as
 
 Built with Java, Swing, FlatLaf, MigLayout, and MySQL.
 ----
+## Development Notes
 
- 
+Keep database credentials in local configuration files and use the example properties as templates. The application structure separates database access, UI concerns, and CGPA calculation responsibilities.
